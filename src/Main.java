@@ -10,5 +10,9 @@ public class Main {
         FXron.size="Medium";
         FXron.color="Blue";
 
+        Planet2 buc=new Planet2();
+         buc.size="XS";
+         buc.weight=107;
+
     }
 }
