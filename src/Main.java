@@ -10,9 +10,17 @@ public class Main {
         FXron.size="Medium";
         FXron.color="Blue";
 
+
+        System1 jim=new System1();
+        jim.color="Green";
+        jim.size=12;
+        jim.rings="N/A";
+        jim.temperature="high";
+
         Planet2 buc=new Planet2();
          buc.size="XS";
          buc.weight=107;
+
 
     }
 }
